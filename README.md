@@ -9,4 +9,11 @@
 - 🌱 I have done projects using HTML, CSS, JavaScript, Django, and MERN Stack.
 - 👯 I am an enthusiastic learner.
 
+✨ I have worked on following projects:
+- Simple Calculator
+- Currency Converter
+- Blog Application
+- Expense Tracker App
+
+
 
