@@ -5,9 +5,10 @@
 -->
 
 
-- 🔭 I like web development.
-- 🌱 I have done projects using HTML, CSS, JavaScript, Django, and MERN Stack.
-- 👯 I am an enthusiastic learner.
+🔭 **SKILLS**
+- Languages: C++, Python, JavaScript, HTML, CSS
+- Technologies: Django, MERN, Bootstrap
+- Interests: Data Structures and Algorithms, Software Development
 
 ✨ I have worked on following projects:
 - Simple Calculator
