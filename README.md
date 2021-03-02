@@ -10,11 +10,6 @@
 - Technologies: Django, MERN, Bootstrap
 - Interests: Data Structures and Algorithms, Software Development
 
-✨ I have worked on following projects:
-- Simple Calculator
-- Currency Converter
-- Blog Application
-- Expense Tracker App
 
 
 
