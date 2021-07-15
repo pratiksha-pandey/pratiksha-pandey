@@ -6,8 +6,8 @@
 
 
 🔭 **SKILLS**
-- Languages: C++, Python, JavaScript, HTML, CSS
-- Technologies: Django, MERN, Bootstrap
+- Languages: C++, JavaScript, HTML, CSS
+- Technologies: MERN Stack, EJS, Bootstrap
 - Interests: Data Structures and Algorithms, Software Development
 
 
